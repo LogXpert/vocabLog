@@ -1,0 +1,14 @@
+cachetools==4.2.1
+drain3==0.9.11
+en_core_web_md==3.8.0
+jsonpickle==1.5.1
+networkx==3.3
+nltk==3.9.1
+numpy==2.3.3
+openai==1.107.3
+pandas==2.3.2
+Requests==2.32.5
+tabulate==0.9.0
+tiktoken==0.9.0
+torch==2.7.0
+tqdm==4.66.4
