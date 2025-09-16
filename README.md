@@ -10,7 +10,7 @@ A Vocabulary-Driven and LLM-Augmented Framework for High-Performance Log Parsing
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/LogXpert/VocabLog.git
+   git clone https://github.com/LogXpert/vocabLog.git
 
 2. Install dependencies:
    ```bash
@@ -60,6 +60,7 @@ Contributions are welcome! Please open issues or submit pull requests for improv
 ## License
 
 This project is open-source. See the LICENSE file for details.
+
 
 
 
